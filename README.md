@@ -1,6 +1,6 @@
-# Praticando Analise de Dados com pacotes e arquivos
+# Practicing Data Analysis with packages and files
 
-## Pacotes e arquivos usados:
+## Packages and files used:
 
 * JSON
 * CSV
